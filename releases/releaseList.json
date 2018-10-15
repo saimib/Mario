@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "0",
+    "Name": "SMB",
+    "DevelopmentStatus": "Alpha",
+    "Description": "The basics.",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2015-01-31T21:46:32.193-08:00",
+    "Files": [
+      {
+        "Id": "23d5d0f8-066e-4c81-8b77-f26daebee954",
+        "FileName": "SMB.zip",
+        "Url": "./0/23d5d0f8-066e-4c81-8b77-f26daebee954",
+        "Type": "Application",
+        "UploadDate": "2015-01-25T20:57:33.387-08:00"
+      },
+      {
+        "Id": "a4681fdb-64f6-4e98-bcce-a417a8a8cf9a",
+        "FileName": "SMB.zip",
+        "Url": "./0/a4681fdb-64f6-4e98-bcce-a417a8a8cf9a",
+        "Type": "Application",
+        "UploadDate": "2015-01-31T21:46:30.773-08:00"
+      }
+    ]
+  }
+]

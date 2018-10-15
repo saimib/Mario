@@ -1,0 +1,11 @@
+D:\Version Control\Projects\Mario\sourceCode\Mario\GameEngine\bin\Debug\GameEngine.dll
+D:\Version Control\Projects\Mario\sourceCode\Mario\GameEngine\bin\Debug\GameEngine.pdb
+D:\Version Control\Projects\Mario\sourceCode\Mario\GameEngine\bin\Debug\sfmlnet-audio-2.dll
+D:\Version Control\Projects\Mario\sourceCode\Mario\GameEngine\bin\Debug\sfmlnet-graphics-2.dll
+D:\Version Control\Projects\Mario\sourceCode\Mario\GameEngine\bin\Debug\sfmlnet-system-2.dll
+D:\Version Control\Projects\Mario\sourceCode\Mario\GameEngine\bin\Debug\sfmlnet-window-2.dll
+D:\Version Control\Projects\Mario\sourceCode\Mario\GameEngine\obj\Debug\GameEngine.dll
+D:\Version Control\Projects\Mario\sourceCode\Mario\GameEngine\obj\Debug\GameEngine.pdb
+D:\Version Control\Projects\Mario\sourceCode\Mario\GameEngine\obj\Debug\GameEngine.csprojAssemblyReference.cache
+D:\Version Control\Projects\Mario\sourceCode\Mario\GameEngine\obj\Debug\GameEngine.csproj.CoreCompileInputs.cache
+D:\Version Control\Projects\Mario\sourceCode\Mario\GameEngine\obj\Debug\GameEngine.csproj.CopyComplete
